@@ -1,3 +1,5 @@
+##install.packages("data.table")
+##install.packages("reshape2")
 ##setwd("C:/Users/SIAVHSA/Documents/R/Datos/")
 ##path <- getwd()
 library(data.table)
