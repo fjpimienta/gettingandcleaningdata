@@ -11,4 +11,12 @@ Establishes the data path
 Run the file run_analysis.R
 Check the order of tiny.txt file.
 
+The variabls are: 
+f: file name.
+fileUrl: data file.
+path: data path.
+dt: Data.
+dtfeatures: feature names.
+dtTidy: Order data.
+
 Good Look!
